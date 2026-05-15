@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+pip-wheel-metadata/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage
+.pytest_cache/
+coverage.xml
+htmlcov/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Editor temporary files
+*~
+*.swp
+
+# System files
+Thumbs.db
+
+# Node modules (if present)
+node_modules/
+
+# Docker
+docker-compose.override.yml
+
+# AWS
+.aws-sam/
